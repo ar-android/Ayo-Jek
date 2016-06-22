@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#2196F3</color>
+    <color name="colorPrimaryDarks">#1976D2</color>
+    <color name="colorAccent">#03A9F4</color>
+    <color name="white">#FFFFFF</color>
+    <color name="background_home">#FFF000</color>
+    <color name="colorGooglePrimary">#dd4b39</color>
+    <color name="colorGooglePrimaryLight">#d34836</color>
+    <color name="gray">#c2c2c2</color>
+    <color name="black">#000000</color>
+</resources>

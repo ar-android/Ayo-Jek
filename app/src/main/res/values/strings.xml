@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Ayo-Jek</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_home">AYO-JEK</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="beta_version">BETA VERSION</string>
+    <string name="label_sign_up">SIGN UP</string>
+    <string name="label_sign_in">SIGN IN</string>
+    <string name="go_sign_in">Already have an account? Log in.</string>
+    <string name="label_sign_up_gplus">SIGN WITH GOOGLE</string>
+    <string name="go_sign_up">Don\'t have account? Sign Up.</string>
+    <string name="loading">Loading...</string>
+    <string name="action_logout">Log Out</string>
+    <string name="track_ojek">Tracking Ojek</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ayo-Jek Driver</string>
+    <string name="action_settings">Settings</string>
+    <string name="loading">Loading...</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="label_sign_up">SIGN UP</string>
+    <string name="label_sign_in">SIGN IN</string>
+    <string name="go_sign_in">Already have an account? Log in.</string>
+    <string name="go_sign_up">Don\'t have account? Sign Up.</string>
+    <string name="beta_version">BETA VERSION</string>
+    <string name="activity_sign">SIGN IN</string>
+    <string name="activity_signup">SIGN UP</string>
+    <string name="activity_profile">PROFILE</string>
+    <string name="activity_setting">Setting</string>
+</resources>

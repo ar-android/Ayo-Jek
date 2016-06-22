@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "751769702583",
+    "firebase_url": "https://ayo-jek.firebaseio.com",
+    "project_id": "ayo-jek",
+    "storage_bucket": "ayo-jek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751769702583:android:2a652da492848d48",
+        "android_client_info": {
+          "package_name": "com.ahmadrosid.ayo_jek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751769702583-n0cc9i520auc1dpq428119c42daaf70j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahmadrosid.ayo_jek",
+            "certificate_hash": "914018EA996D27F4A26D0B31142DD2F524134E9B"
+          }
+        },
+        {
+          "client_id": "751769702583-8gjfaiuf30c45mlnjfrkubq0ud5gq791.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahmadrosid.ayo_jek",
+            "certificate_hash": "06FA7D1F006265605A6C1F86EB227B95A17D9E1A"
+          }
+        },
+        {
+          "client_id": "751769702583-q0feiab653kgv8rs79vmqq4qp5ou0qq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfeMmly3P7XM9BElOwhEAcUH8JG40_xNk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751769702583-q0feiab653kgv8rs79vmqq4qp5ou0qq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751769702583:android:5aeca2319a975b9c",
+        "android_client_info": {
+          "package_name": "com.ahmadrosid.ayo_jek_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751769702583-apdnducl6maids1qg4sjavchct4077e9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahmadrosid.ayo_jek_driver",
+            "certificate_hash": "914018EA996D27F4A26D0B31142DD2F524134E9B"
+          }
+        },
+        {
+          "client_id": "751769702583-q0feiab653kgv8rs79vmqq4qp5ou0qq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfeMmly3P7XM9BElOwhEAcUH8JG40_xNk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751769702583-q0feiab653kgv8rs79vmqq4qp5ou0qq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
